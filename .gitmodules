@@ -1,0 +1,6 @@
+[submodule "slotify-backend"]
+	path = slotify-backend
+	url = https://github.com/cs3216-2021-a3-group12/slotify-backend.git
+[submodule "slotify-frontend"]
+	path = slotify-frontend
+	url = https://github.com/cs3216-2021-a3-group12/slotify-frontend.git
